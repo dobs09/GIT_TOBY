@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjb5tr\\Desktop\\GIT_TOBY\\Bygninger\\Bygninger\\Bygninger.csproj",
-      "projectName": "Bygninger",
-      "projectPath": "C:\\Users\\jjb5tr\\Desktop\\GIT_TOBY\\Bygninger\\Bygninger\\Bygninger.csproj",
+      "projectUniqueName": "C:\\Users\\jjb5tr\\Desktop\\GIT_TOBY\\Bygninger\\Bygninger\\BuilderPattern_Bygninger.csproj",
+      "projectName": "BuilderPattern_Bygninger",
+      "projectPath": "C:\\Users\\jjb5tr\\Desktop\\GIT_TOBY\\Bygninger\\Bygninger\\BuilderPattern_Bygninger.csproj",
       "packagesPath": "C:\\Users\\jjb5tr\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jjb5tr\\Desktop\\GIT_TOBY\\Bygninger\\Bygninger\\obj\\",
       "projectStyle": "PackageReference",

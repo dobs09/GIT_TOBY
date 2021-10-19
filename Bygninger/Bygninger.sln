@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bygninger", "Bygninger\Bygninger.csproj", "{2FA7B9D1-4F31-44D6-BDBC-46B7F7C66561}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern_Bygninger", "Bygninger\BuilderPattern_Bygninger.csproj", "{2FA7B9D1-4F31-44D6-BDBC-46B7F7C66561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
