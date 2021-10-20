@@ -2,4 +2,4 @@ pygame.py
 
 
 #Jeg vil nu merge dennne
-#Denne er fra main
+#Denne er fra newStrategyPattern
