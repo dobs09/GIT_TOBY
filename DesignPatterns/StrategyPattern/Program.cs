@@ -7,12 +7,14 @@ namespace StrategyPattern
     {
         static void Main(string[] args)
         {
-            Københavner køben = new Københavner();
+            Københavner køben = new Københavner("Jens", 29);
+            køben.Person();
             køben.Run.ICanRun();
             køben.Eat.Spiser();
             Console.WriteLine("---------------------");
 
-            Jyder jyde = new Jyder();
+            Jyder jyde = new Jyder("Gitte", 49);
+            jyde.Person();
             jyde.Run.ICanRun();
             jyde.Eat.Spiser();
             Console.WriteLine("---------------------");

@@ -5,12 +5,19 @@ using System.Text;
 
 namespace StrategyPattern.Humans
 {
-    class Københavner : Human
+    public class Københavner : Human
     {
-        public Københavner()
+        public Københavner(string navn, int alder) : base(navn, alder)
         {
+            
+
             Eat = new EatingVegetar();
             Run = new RunFast();
+        }
+
+        public void Person()
+        {
+            Console.WriteLine("Jeg hedder {0}, og jeg er {1} år gammel", Navn, Alder);
         }
     }
 }
