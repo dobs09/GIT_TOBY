@@ -1,4 +1,5 @@
 ﻿using StrategyPattern.Humans;
+using StrategyPattern.LINQ_Mennesker;
 using System;
 
 namespace StrategyPattern
@@ -19,6 +20,7 @@ namespace StrategyPattern
             jyde.Eat.Spiser();
             Console.WriteLine("---------------------");
 
+            LINQ_Liste.HumanListe();
         }
     }
 }
